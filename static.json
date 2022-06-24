@@ -1,1 +1,8 @@
-
+{
+ "headers": {
+   "/*": {
+     "X-Author": "raindowmiacat",
+     "Access-Control-Allow-Origin": "*"
+   }
+ }
+}
